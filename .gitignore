@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
 Homestead.yaml
 Homestead.json
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+>>>>>>> 5b7e1b910a11f559ec4c09968b5ff09afebcba79
 .env
