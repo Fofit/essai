@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">{{ $donnees['user'] }}</div>
+                <div class="title">Changement de tire</div>
             </div>
         </div>
     </body>
